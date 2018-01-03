@@ -1,9 +1,8 @@
-## Welcome to RealFrimaire Tune
+## 嗯，一个划水项目。
 
-You can use the [editor on GitHub](https://github.com/realfrimaire/realfrimaire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你或许很会奇怪我这个项目有什么意义，但是你们现在可以停止你们这个思考了，因为它根本没意义（逃
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+你也可以尝试从别的渠道看到我的想法，这一切都在你们的选择之中。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
